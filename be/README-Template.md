@@ -1,5 +1,5 @@
 # Назва праекта
 
-One Paragraph of project description goes here
+Адзін пункт апісання праекта тут ідзе
 
 ## Пачатак
